@@ -182,7 +182,6 @@ public class SendBookLoanNotificationScheduleJob extends QuartzJobBean {
 
 spring.batch.job.enabled=false
 
-See all :
-
+See all :	
     [schedule a task to run at everyday on a specific time] (https://stackoverflow.com/questions/28928128/schedule-a-task-to-run-at-everyday-on-a-specific-time)
     [quartz-2.3.0] (http://www.quartz-scheduler.org/documentation/quartz-2.3.0/tutorials/tutorial-lesson-06.html)
